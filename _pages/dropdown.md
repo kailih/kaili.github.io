@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: true
-nav_order: 3
+title: Experience
+nav: false
+nav_order: 1
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Education
+      permalink: /education/
+    # - title: divider
+    - title: Work Experience
+      permalink: /work/
 ---

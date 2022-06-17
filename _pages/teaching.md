@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 2
@@ -10,3 +10,11 @@ nav_order: 2
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like!
+
+## <a href="https://web.stanford.edu/class/cs224n/">CS224N, Stanford / Winter 2022</a>
+
+### Lecture Notes
+Transformer [TO ADD]
+
+### Selected Mentored Projects
+[TO ADD]
