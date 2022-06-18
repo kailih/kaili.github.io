@@ -1,4 +1,6 @@
-# al-folio
+Kaili's personal website. Template adapted from https://github.com/alshedivat/al-folio.
+
+<!-- # al-folio
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
@@ -406,4 +408,4 @@ For more complex issues/bugs or feature requests, please open an issue using the
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+Since then, it got a full re-write of the styles and many additional cool features. -->
