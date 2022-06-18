@@ -18,7 +18,7 @@ nav_order: 1
 #### Microsoft
 **Data & Applied Scientist Intern**\\
 Jun 2022 - Present. *Bellevue, Washington, US*\\
-Working in WebXT (Bing Ads Team) on Ads Relevance Modeling.
+Working in WebXT - Bing Ads Team on Ads Relevance Modeling.
 
 #### ByteDance
 **Machine Learning Engineer**\\
