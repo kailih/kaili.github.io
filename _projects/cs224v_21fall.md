@@ -2,9 +2,10 @@
 layout: page
 title: dialog system
 description: Stanford CS224V (Conversational Virtual Assistants with Deep Learning), Fall 2021
-redirect: /assets/pdf/cs224v.pdf
-img: assets/img/cs224v.png
-importance: 2
+redirect: /me/assets/pdf/cs224v.pdf
+# baseurl hard coded 
+img: assets/img/cs224v-2.jpg
+importance: 1
 category: School
 ---
 

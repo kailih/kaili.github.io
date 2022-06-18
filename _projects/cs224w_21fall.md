@@ -2,9 +2,9 @@
 layout: page
 title: Graph Neural Network
 description: Stanford CS224W (Machine Learning with Graphs), Fall 2021
-img: assets/img/cs224w.png
+img: assets/img/cs224w-2.jpg
 redirect: https://medium.com/@kailihuang/which-trick-works-best-in-gnn-analyzed-on-arxiv-citation-dataset-e9f29ce07e04
-importance: 3
+importance: 2
 category: School
 ---
 
