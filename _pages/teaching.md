@@ -15,7 +15,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 Stanford University, Winter 2022
 
 #### Lecture Notes
-[Transformer Notes](/me/assets/pdf/transformer_notes.pdf)
+[Transformer Notes](/assets/pdf/transformer_notes.pdf)
 
 <!-- #### Selected Mentored Projects
 [TO ADD] -->
