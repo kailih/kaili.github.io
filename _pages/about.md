@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Microsoft DS Intern | Stanford MSCS Student.
+subtitle: Microsoft 2022 Summer Intern | Stanford MSCS Student.
 
 profile:
   align: righ
   image: prof_pic.jpg
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  address: >
+    <p> Palo Alto, CA </p>
+    <p> Bellevue, WA (for the summer) </p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, information retrieval, question answering, dialog systems, knowledge graphs, etc.
 
-I'm currently a master's student in computer science at Stanford University and I've just finished my first year. This summer, I'm interning at *Microsft* as a Data & Applied Scientist Intern.
+I'm currently a master's student in computer science at Stanford University and I've just finished my first year. This summer (2022), I'm interning at *Microsft* as a Data & Applied Scientist Intern.
 
 Before attending Stanford, I received my bachelor's degree from Tsinghua University, and then worked at ByteDance as a full-time Machine Learning Engineer for 1 year.
 
-
+Find me on [Linkedin](https://www.linkedin.com/in/huangkaili/).
 
 <!-- <a href='https://www.linkedin.com/in/huangkaili/'>Contact</a> -->
 

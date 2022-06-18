@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selected collection of the projects I've done.
+description: A selected collection of Kaili's projects.
 nav: true
-nav_order: 1
+nav_order: 3
 display_categories: [School]
 horizontal: false
 ---
