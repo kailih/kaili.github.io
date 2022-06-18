@@ -8,8 +8,8 @@ profile:
   align: righ
   image: prof_pic.jpg
   address: >
-    <p> Palo Alto, CA </p>
-    <p> Bellevue, WA (for the summer) </p>
+    <p> - Palo Alto, CA </p>
+    <p> - Bellevue, WA (for the summer) </p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
