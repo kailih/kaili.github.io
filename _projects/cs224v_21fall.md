@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: dialog system
+description: Stanford CS224V (Conversational Virtual Assistants with Deep Learning), Fall 2021
+redirect: /assets/pdf/cs224v.pdf
+img: assets/img/cs224v.png
 importance: 2
-category: work
+category: School
 ---
 
 Every project has a beautiful feature showcase page.

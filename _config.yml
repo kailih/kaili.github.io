@@ -30,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -74,7 +74,7 @@ dblp_url: https://dblp.org/pid/259/2408.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Best way to reach to me: Connect me on LinkedIn! I'm happy to connect and it'd be best if you could add a short note! :)
+  Best way to reach to me is through LinkedIn! I'm happy to connect and it'd be best if you could include a short note! :)
 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
