@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, information retrieval, question answering, dialog systems, knowledge graphs, etc.
 
-I'm currently a master's student in computer science at Stanford University and I've just finished my first year. This summer (2022), I'm interning at *Microsft* as a Data & Applied Scientist Intern.
+I'm currently a master's student in computer science at *Stanford University* and I've just finished my first year. This summer (2022), I'm interning at *Microsft* as a Data & Applied Scientist Intern.
 
-Before attending Stanford, I received my bachelor's degree from Tsinghua University, and then worked at ByteDance as a full-time Machine Learning Engineer for 1 year.
+Before attending Stanford, I received my bachelor's degree from *Tsinghua University*, and then worked at *ByteDance* as a full-time Machine Learning Engineer for 1 year.
 
 Find me on [Linkedin](https://www.linkedin.com/in/huangkaili/).
 

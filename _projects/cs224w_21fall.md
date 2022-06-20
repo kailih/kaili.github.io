@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Graph Neural Network
-description: Stanford CS224W (Machine Learning with Graphs), Fall 2021
+description: In this blog, We will introduce to you the principle and implementation of commonly used tricks in GNN and analyze their effectiveness with experimental results.
+# Stanford CS224W (Machine Learning with Graphs), Fall 2021
 img: assets/img/cs224w-2.jpg
 redirect: https://medium.com/@kailihuang/which-trick-works-best-in-gnn-analyzed-on-arxiv-citation-dataset-e9f29ce07e04
 importance: 2

@@ -1,7 +1,8 @@
 ---
 layout: page
-title: dialog system
-description: Stanford CS224V (Conversational Virtual Assistants with Deep Learning), Fall 2021
+title: task-oriented dialog system
+description: With the goal of reducing the amount of natural language encoded at each turn, we investigated the effect of dialogue history in multilingual task-oriented dialogue systems.
+# Stanford CS224V (Conversational Virtual Assistants with Deep Learning), Fall 2021
 redirect: /assets/pdf/cs224v.pdf
 img: assets/img/cs224v-2.jpg
 importance: 1
