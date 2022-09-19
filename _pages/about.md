@@ -2,29 +2,30 @@
 layout: about
 title: About
 permalink: /
-subtitle: Microsoft Applied Scientist Intern | Stanford MSCS Student
+subtitle: Stanford CS. <a href='https://www.linkedin.com/in/huangkaili/'>LinkedIn</a>. <a href='mailto:kaili@cs.stanford.edu'>Email</a>. 
 
 profile:
   align: righ
   image: prof_pic.jpg
   address: >
-    <p> - Palo Alto, CA </p>
-    <p> - Bellevue, WA (2022 summer) </p>
+    <p> Stanford </p>
+    <p> CA 94305 </p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+**I'm open to 2023 full-time roles as an Applied Scientist / Data Scientist, MLE, SDE, etc. So please kindly reach out if you think there is a match.**
+
 Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, information retrieval, question answering, dialog systems, knowledge graphs, etc.
 
-I'm currently a master's student in computer science at **Stanford University** and I've just finished my first year. This summer (2022), I'm interning at **Microsoft** as an Applied Scientist Intern.
+I'm currently a 2nd-year master's student in computer science at **Stanford University**. In summer 2022, I worked at **Microsoft** as an Applied Scientist Intern.
 
 Before attending Stanford, I received my bachelor's degree from **Tsinghua University**, and then worked at **ByteDance** as a full-time Machine Learning Engineer for 1 year.
 
-Find me on [Linkedin](https://www.linkedin.com/in/huangkaili/).
+I'm happy to connect on [Linkedin](https://www.linkedin.com/in/huangkaili/)!
 
-<!-- <a href='https://www.linkedin.com/in/huangkaili/'>Contact</a> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
