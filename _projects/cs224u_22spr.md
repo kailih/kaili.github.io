@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Task-Oriented Dialog Systems
-description: With the goal of reducing the amount of natural language encoded at each turn, we investigated the effect of dialogue history in multilingual task-oriented dialogue systems.
-# Stanford CS224V (Conversational Virtual Assistants with Deep Learning), Fall 2021
-redirect: /assets/pdf/cs224v.pdf
-img: assets/img/cs224v-2.jpg
+title: GPT3 for OpenQA
+description: We work on engineering the GPT-3 input to improve its performance on the OpenQA task in the in-context learning setting.
+# Stanford CS224U (Natural Language Understanding), Spring 2022
+redirect: /assets/pdf/cs224u.pdf
+img: assets/img/cs224u-2.jpeg
 importance: 1
 category: School
 ---

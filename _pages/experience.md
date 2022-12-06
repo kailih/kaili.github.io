@@ -18,7 +18,7 @@ nav_order: 1
 #### Microsoft
 **Data & Applied Scientist Intern**\\
 Jun 2022 - Sep 2022. *Bellevue, Washington, US*\\
-Working in WebXT - Bing Ads Team on multi-modality pruning.
+Worked in WebXT - Bing Ads Team on multi-modality pruning.
 
 #### ByteDance
 **Machine Learning Engineer**\\

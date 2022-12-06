@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**I'm open to 2023 full-time roles as an Applied Scientist / Data Scientist, MLE, SDE, etc. So please kindly reach out if you think there is a match.**
+<!-- **I'm open to 2023 full-time roles as an Applied Scientist / Data Scientist, MLE, SDE, etc. So please kindly reach out if you think there is a match.** -->
 
 Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, information retrieval, question answering, dialog systems, knowledge graphs, etc.
 
