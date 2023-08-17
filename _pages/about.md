@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Stanford CS. <a href='https://www.linkedin.com/in/huangkaili/'>LinkedIn</a>. <a href='mailto:kaili@cs.stanford.edu'>Email</a>. 
+subtitle: Microsoft Applied Scientist. Stanford CS. <a href='https://www.linkedin.com/in/huangkaili/'>LinkedIn</a>. <a href='mailto:kaili@cs.stanford.edu'>Email</a>. 
 
 profile:
   align: righ
@@ -16,13 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- **I'm open to 2023 full-time roles as an Applied Scientist / Data Scientist, MLE, SDE, etc. So please kindly reach out if you think there is a match.** -->
+Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, multi-modality modeling, information retrieval, question answering, dialog systems, knowledge graphs, etc.
 
-Hi! I'm an enthusiastic machine learning engineer and researcher. My interests broadly include machine learning, deep learning, natural language processing, information retrieval, question answering, dialog systems, knowledge graphs, etc.
-
-I'm currently a 2nd-year master's student in computer science at **Stanford University**. In summer 2022, I worked at **Microsoft** as an Applied Scientist Intern.
-
-Before attending Stanford, I received my bachelor's degree from **Tsinghua University**, and then worked at **ByteDance** as a full-time Machine Learning Engineer for 1 year.
+I'm working at **Microsoft** as an Applied Scientist, where I work on natural language processing and multi-modality modeling. I graduated from **Stanford University** with a master's degree in Computer Science. Before attending Stanford, I received my bachelor's degree from **Tsinghua University**, and then worked at **ByteDance** as a Machine Learning Engineer for 1 year.
 
 I'm happy to connect on [Linkedin](https://www.linkedin.com/in/huangkaili/)!
 
